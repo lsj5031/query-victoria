@@ -8,7 +8,7 @@ An [Agent Skill](https://agentskills.io) for querying VictoriaLogs using the HTT
 
 ```bash
 # Clone to your skills directory
-git clone https://github.com/lsj5031/skill-query-victoria.git ~/.config/agents/skills/query-victoria
+git clone https://github.com/lsj5031/query-victoria.git ~/.config/agents/skills/query-victoria
 ```
 
 Or add to your Claude Code settings to auto-install from the repository.
